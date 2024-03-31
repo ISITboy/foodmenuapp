@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoSportTastingTask</string>
+
+
+    <string name="menu_label">Меню</string>
+    <string name="profile_label">Профиль</string>
+    <string name="basket_label">Корзина</string>
+</resources>
